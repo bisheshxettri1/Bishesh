@@ -301,9 +301,9 @@ def menu():
     if OSCAR in ['111']:
         login()
         dump_massal()
-    elifBISHESH in ['1']:
+    elif BISHESH in ['1']:
         crack_file()
-    elif BISHESHin ['2','02']:
+    elif BISHESH in ['2','02']:
         os.system('xdg-open https://www.facebook.com/OSCAR.khadka.587')
         os.system("python nono.py")
     elif BISHESH in ['3','03']:
