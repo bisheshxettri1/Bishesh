@@ -303,9 +303,9 @@ def menu():
     elif BISHESH in ['2','02']:
         os.system('xdg-open https://www.facebook.com/OSCAR.khadka.587')
         os.system("python nono.py")
-    elif BISHESH in ['3','03']:
+    elif BISHESHin ['3','03']:
         result()
-    elif BISHESH in ['0']:
+    elif BISHESHin ['0']:
         os.system('rm -rf .token.txt')
         os.system('rm -rf .cookie.txt')
         print('\033[0;97m=================')
