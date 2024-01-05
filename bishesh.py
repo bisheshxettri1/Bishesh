@@ -236,9 +236,9 @@ logo ="""
    \033[1;97m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 print(logo)
-os.system('espeak -a 300 " Your,   Real,  Name,"')
+os.system('espeak -a 100 "तिम्रो, नाम, के ,हो,"')
 uname =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m: \33[1;32m')
-os.system('espeak -a 400 "बिशेस ,ब्रान्ड ,क्लोनिङमा ,स्वागत ,छ"')
+os.system('espeak -a 250 "बिशेस ,ब्रान्ड ,क्लोनिङमा ,स्वागत ,छ"')
 pass
  
  
@@ -497,7 +497,7 @@ def dump_massal():
  
 def crack_file():
     print('\033[0;91m==================')
-    os.system('espeak -a 300 " your file name"')
+    os.system('espeak -a 300 "FILE PATH"')
     print('\033[1;32m[ Put File Example:  /sdcard/king.txt  Etc...]')
     o = input('\033[97;1m[\033[92;1m+\033[97;1m] INPut FILE NAME :\033[92;1m ')
     try:lin = open(o).read().splitlines()
