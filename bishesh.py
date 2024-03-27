@@ -3,7 +3,6 @@
 def modules():
 	print("\033[1;37m [\u001b[36m•\033[1;37m] CHECKING  UPDATES \033[1;37m")
 	os.system('pkg update -y && pkg upgrade -y')
-	os.system('clear')
 	try:
 		import rich
 	except ModuleNotFoundError:
@@ -529,3 +528,4 @@ def result():
 					lol.update({str(cih):str(isi)})
 					print(' '+str(cih)+'. '+isi+'\033[32m '+str(len(hem))+' \033[0m OK '+x)
 			linex()
+			geeh = input(' [
